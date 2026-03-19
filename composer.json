@@ -1,5 +1,5 @@
 {
-    "name": "diglactic/laravel-breadcrumbs",
+    "name": "artiger/laravel-breadcrumbs",
     "description": "A simple Laravel-style way to create breadcrumbs.",
     "keywords": [
         "laravel"
